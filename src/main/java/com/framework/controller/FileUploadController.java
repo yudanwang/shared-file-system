@@ -1,4 +1,4 @@
-package controller;
+package com.framework.controller;
 
 /**
  * Created by WangYudan on 2016/3/13.
